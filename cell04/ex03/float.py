@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 n = input("Give me a number: ")
 n = float(n)
 if n == int(n):
