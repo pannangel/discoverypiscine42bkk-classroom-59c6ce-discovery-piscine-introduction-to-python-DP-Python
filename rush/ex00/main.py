@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-from rush.ex00.checkmate import chessboard
+from checkmate import chessboard
 if __name__ == "__main__":
     board = """\
 ........
