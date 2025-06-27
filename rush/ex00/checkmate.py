@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-def chessboard(board_grid): #creat chess board
+def checkmate(board_grid): #creat chess board
     board = []
     for row in board_grid.strip().split('\n'):
         clean = row.strip()
